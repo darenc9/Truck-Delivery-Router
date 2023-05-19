@@ -1,0 +1,30 @@
+﻿  AssignTruckTester.cpp
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\AssignTruckTester.cpp(212,17): warning C4101: 'routes': unreferenced local variable
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\AssignTruckTester.cpp(408,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\AssignTruckTester.cpp(415,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\AssignTruckTester.cpp(422,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\AssignTruckTester.cpp(429,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\AssignTruckTester.cpp(436,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\AssignTruckTester.cpp(443,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\AssignTruckTester.cpp(450,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\AssignTruckTester.cpp(457,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\AssignTruckTester.cpp(464,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\AssignTruckTester.cpp(471,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\AssignTruckTester.cpp(478,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\AssignTruckTester.cpp(492,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\AssignTruckTester.cpp(499,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\AssignTruckTester.cpp(509,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\AssignTruckTester.cpp(519,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\AssignTruckTester.cpp(529,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\AssignTruckTester.cpp(539,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\AssignTruckTester.cpp(549,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\AssignTruckTester.cpp(559,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ValidateTester.cpp
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\ValidateTester.cpp(320,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\ValidateTester.cpp(334,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\ValidateTester.cpp(341,1): warning C4311: 'type cast': pointer truncation from 'const char *' to 'int'
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\ValidateTester.cpp(341,1): warning C4302: 'type cast': truncation from 'const char *' to 'int'
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\ValidateTester.cpp(355,1): warning C4305: 'argument': truncation from '__int64' to 'int'
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\UnitTester\ValidateTester.cpp(355,32): warning C4309: 'argument': truncation of constant value
+  Generating Code...
+  UnitTester.vcxproj -> C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\SFTProject\x64\Debug\UnitTester.dll

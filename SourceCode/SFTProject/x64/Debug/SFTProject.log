@@ -1,0 +1,3 @@
+﻿  utils.c
+C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\SFTProject\utils.c(59,98): warning C4028: formal parameter 4 different from declaration
+  SFTProject.vcxproj -> C:\Users\Devon\OneDrive\School\Semester 2\SFT221\Project\MS3\SFTProject\x64\Debug\SFTProject.exe
